@@ -7,7 +7,7 @@ chardet==3.0.4
 Click==7.0
 cloudpickle==1.1.1
 configparser==3.7.4
-cryptography==2.7
+cryptography==3.2
 cycler==0.10.0
 dash==0.43.0
 dash-core-components==0.48.0
