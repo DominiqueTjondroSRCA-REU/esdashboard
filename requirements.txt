@@ -56,7 +56,7 @@ tabpy-tools==0.6.1
 tornado==5.1.1
 Tornado-JSON==1.3.4
 traitlets==4.3.2
-urllib3==1.24.3
+urllib3==1.26.5
 virtualenv==16.7.0
 Werkzeug==0.15.4
 whitenoise==4.1.3
