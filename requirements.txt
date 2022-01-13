@@ -37,7 +37,7 @@ mock==3.0.5
 nbformat==4.4.0
 numpy==1.16.4
 pandas==0.24.2
-Pillow==6.1.0
+Pillow==9.0.0
 plotly==3.10.0
 psycopg2==2.8.3
 pycparser==2.19
